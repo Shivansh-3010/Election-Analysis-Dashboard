@@ -86,9 +86,9 @@ A Power BI dashboard designed to visually analyze and compare the 2014 and 2024 
 
 ## 👤 Author
 
-**Vanshika Panwar**  
+**Shivansh Deshwal**  
 Data Analyst | B.Tech CSE | Tableau & Power BI Enthusiast  
-GitHub: [vanshika2810](https://github.com/vanshika2810)
+GitHub: [Shivansh-3010](https://github.com/Shivansh-3010)
 
 ---
 
